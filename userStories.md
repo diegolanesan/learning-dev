@@ -21,7 +21,7 @@ Los usuarios podrán loguearse y guardar su progreso, ver contenidos de los curs
     - Puede ver los usuarios registrados, con sus puntajes y demás
     - Puede crear cursos
 
-- **Sprints**
+## Sprints
 
 - **1° Sprint**
     - Cursos - Puede tener muchos módulos
